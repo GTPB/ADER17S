@@ -7,11 +7,11 @@
 
 A hands-on training course at Instituto Gulbenkian de Ciência (IGC)
 
-Official course page of the Gulbenkian Training Programme in Bioinformatics (GTPB). Pedro L. Fernandes, Coordinator
+Official course page of the **[Gulbenkian Training Programme in Bioinformatics (GTPB)]**(http://gtpb.igc.gulbenkian.pt/bicourses/Archive/2017/ADER17S/index.html). Pedro L. Fernandes, Coordinator
 
-Course materials prepared by Daniel Sobral (IGC) and Daniel Faria (IGC)
+Course materials prepared by *Daniel Sobral (IGC) and Daniel Faria (IGC)*
 
-Course delivery (Dec 4th - Dec 7th) by Daniel Sobral, Daniel Neves and Daniel Faria (all from IGC)
+Course delivery (Dec 4th - Dec 7th) by *Daniel Sobral, Daniel Neves and Daniel Faria (all from IGC)*
 
 # Overview
 
