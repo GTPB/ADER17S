@@ -60,12 +60,12 @@ What choices do you have when sending your samples to the sequencing facility
 How do the sequencing choices influence the kind of questions you can answer
 
 ### LO 2 - List steps in the analysis of RNA-Seq differential expression experiments
-What are the steps in RNA-Seq data analysis
+	What are the steps in RNA-Seq data analysis
 
 ### LO 3 - Assess the general quality of the raw data from the sequencing facility
 
 #### 	LO 3.1 - Interpret what are fastq files and what is their content
-What information is in fastq files, and how is it organized
+What information is there in fastq files, and how is it organised?
 
 #### 	LO 3.2 - Use software like FastQC to process fastq files and produce QC reports
 
